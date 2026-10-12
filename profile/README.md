@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="banner.png" alt="Ergenza: HR and payroll for teams hiring across countries" width="100%">
+  <img src="banner.png" alt="Ergenza: software that helps growing companies run their business" width="100%">
 </p>
 
 ## About Ergenza
 
-Ergenza builds **[NanoHRMS](https://nanohrms.com)**, an HR and payroll platform for companies with teams in more than one country.
+Ergenza is a software company. We build products that help growing companies run their business: simple to start, configurable instead of custom-coded, and ready for teams in more than one country.
 
-One employee record runs core HR, leave, attendance and payroll, in each team's currency and language. Tax rates and statutory rules are settings your team edits, not code, so a new country or a rule change is configuration, not a release.
+## Our products
 
-### What NanoHRMS covers
+### [NanoHRMS](https://nanohrms.com) — HR and payroll for teams hiring across countries
+
+One employee record runs core HR, leave, attendance and payroll, in each team's currency and language. Tax rates and statutory rules are settings your team edits, not code.
 
 | | |
 |---|---|
@@ -19,11 +21,9 @@ One employee record runs core HR, leave, attendance and payroll, in each team's 
 | **Platform** | Multi-tenant, role-based access, English · Français · العربية |
 | **Deployment** | Our cloud, or on-premises for Enterprise |
 
-### Status
+Status: **early access**. Request a workspace at **[nanohrms.com](https://nanohrms.com)**.
 
-NanoHRMS is in **early access**. Teams can request a workspace at **[nanohrms.com](https://nanohrms.com)**.
-
-### Contact
+## Contact
 
 Questions, partnerships or early-access requests: **[nanohrms.com/contact](https://nanohrms.com/contact)**
 
