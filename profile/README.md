@@ -6,11 +6,9 @@
 
 Ergenza is a software company. We build products that help growing companies run their business: simple to start, configurable instead of custom-coded, and ready for teams in more than one country.
 
-## Our products
+## Ergenza HR and payroll
 
-### [NanoHRMS](https://nanohrms.com) — HR and payroll for teams hiring across countries
-
-One employee record runs core HR, leave, attendance and payroll, in each team's currency and language. Tax rates and statutory rules are settings your team edits, not code.
+HR and payroll for teams hiring across countries. One employee record runs core HR, leave, attendance and payroll, in each team's currency and language. Tax rates and statutory rules are settings your team edits, not code.
 
 | | |
 |---|---|
@@ -21,10 +19,6 @@ One employee record runs core HR, leave, attendance and payroll, in each team's 
 | **Platform** | Multi-tenant, role-based access, English · Français · العربية |
 | **Deployment** | Our cloud, or on-premises for Enterprise |
 
-Status: **early access**. Request a workspace at **[nanohrms.com](https://nanohrms.com)**.
-
-## Contact
-
-Questions, partnerships or early-access requests: **[nanohrms.com/contact](https://nanohrms.com/contact)**
+Status: **early access**, launching soon at **[ergenza.com](https://ergenza.com)**.
 
 <sub>Our product source code is private. This page is Ergenza's public profile.</sub>
